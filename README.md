@@ -36,4 +36,4 @@ Despite not having any experience in making a telegram bot, we have achieved a u
 We learned that we should really learn these things before the Hackathon and not during... Other than that it was very fun and enjoyable when we managed to crack the anonymous chat functions at 5/6am and were ecstatic.
 
 ## What's next for Kopi Meets Donuts
-Coffee meets bagel?
+Coffee meets bagel
